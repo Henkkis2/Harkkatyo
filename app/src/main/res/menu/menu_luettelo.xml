@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/koti"
+        android:icon="@drawable/iconkoti"
+        android:title="Koti" />
+    <item
+        android:id="@+id/lista"
+        android:icon="@drawable/iconlist"
+        android:title="Lista" />
+    <item
+        android:id="@+id/profiili"
+        android:icon="@drawable/iconperson"
+        android:title="Profiili" />
+</menu>
